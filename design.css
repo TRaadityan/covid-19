@@ -1,0 +1,28 @@
+@font-face {
+    font-family: myFont;
+    src: url(3Dumb.ttf);
+  }
+
+
+body
+    { 
+        
+        background-color: #474747;
+    text-align: center 
+    
+    }
+
+    h1
+        {
+            font-family: myFont;
+            text-align: center;
+            color: #FFFFFF
+        }
+
+        button
+            {
+                background-color: #363636;
+                font-family: myFont;
+                font-size: 18px;
+                color: #FFFFFF;
+            }
